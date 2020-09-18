@@ -1,0 +1,15 @@
+-bash-4.2$ ls
+$RECYCLE.BIN  Desktop    Downloads  Music     My Pictures  Pictures  Templates  desktop.ini
+Contacts      Documents  Links      My Music  My Videos    Public    Videos
+-bash-4.2$ pwd
+/home/jennyaal
+-bash-4.2$ mkdir test
+-bash-4.2$ ls
+$RECYCLE.BIN  Desktop    Downloads  Music     My Pictures  Pictures  Templates  desktop.ini
+Contacts      Documents  Links      My Music  My Videos    Public    Videos     test
+-bash-4.2$ rmdir test
+-bash-4.2$ ls
+$RECYCLE.BIN  Desktop    Downloads  Music     My Pictures  Pictures  Templates  desktop.ini
+Contacts      Documents  Links      My Music  My Videos    Public    Videos
+-bash-4.2$ cd Videos
+-bash-4.2$ ls
